@@ -93,6 +93,9 @@ def isNeutral(image, other_emotions_threshhold =0.75,dominant_emotion_threshhold
     return False, [{'box': [132, 89, 153, 209], 'emotions': {'angry': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happy': 0.0, 'sad': 0.0, 'surprise': 0.0, 'neutral': 0.0}}]
 
 def isOkay(frame,thresh1,thresh2, contrast_thresh=0.5):
+    
+    if isinstance(frame, str):
+        frame = cv2.imread(frame)
     emotions=[]
     result={'status':False,'reasons':'','parameters_checked':''}
     parameters_checked=[]

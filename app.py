@@ -6,6 +6,17 @@ import os
 
 app = Flask(__name__)
 
+'''
+Expected Input
+{
+    img_type: 'EXTENSION'             #the type of image before converting to base64(file extension)
+    img: 'BASE64_ENCODED_IMAGE'
+    name: 'NAME_OF_THE_PERSON'
+    
+}
+
+'''
+
 @app.route('/post_json', methods=['POST'])
 def process_json():
     json = request.json
@@ -34,4 +45,6 @@ def process_json():
     return jsonify({"result":result})
     
 if __name__ == "__main__":
-    app.run()
+    # res = main.isOkay(r'dataset\train\Neemeesh\Neemeesh.png', 50, 50,contrast_thresh= 0.5)
+    # print(res)
+    app.run(debug = True)
