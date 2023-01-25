@@ -1,0 +1,107 @@
+05bNPqJ8soX4YBIw2qMlN1TXuOh1.jpg : {'status': False, 'reasons': 'The image is incomplete or has partial face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete']}
+0fpWCikBNGbci25gFkDTw8hauMk2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+0Lci2hsXVjRPQaTDuUwBj31aEl22.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+1eQwF6x8CESzAJ1DMwd72YnraF63.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+1G9id1GTZafODv2gxche9ZHHB1M2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+2DrHNcvPEdfnmW7hLNeGPaZltnC3.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+2rbE4ZUWWcTNRLrDlESRNbchAEG2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+2Ubr0PNj5hhQFreIueBuDc3AMq93.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+3KjLF65gBhgbjSPXpDdUgIIipnF2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+4fFK2HP0UsddRQ4ZnmOQy3oUZSk1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+4O3yhA9jZwWv0Hqq6PpzbFke4Of2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+4pdfHzpHU0gxc0Fo5Edio6ce2C93.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+4YyHOEk48kYbAhi2u5ImI0ucvfz1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+5VjZtJbNlqfY8EneRqTXFCcI30K3.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+63kqArQVbWe5fMwplxObQqQTWcB3.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+6HKK9OLpxIVH8LwhwKTBAXPzDBJ2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+7D2KrfERaOOhfMJJkxEB0QlUaEW2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+7E7GR2QGF8dSj5C6m35ef79nzMo2.jpg : {'status': False, 'reasons': 'Head alignment is not proper.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect']}
+7qBc5HLAN5SEkDWefBVccZ56Qw63.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+85HCVLfkUsT1lYSfnjG3zGhYwDQ2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+8DYnsbZBmodfykRTSdO6MkBHQ0h1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+9eyfaJRdyTeo7EIsGhp4qD5VaWs2.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+ABica1KsvieiATGXXisEZ8WQOAP2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+alrMiOKmYsc81gsqb3DD4tjZ8mg1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+aQWDAL6Hp8NavwYN8vrJ0AoP5oJ3.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+BI6C5OJxW3hAfs8ifGaZAN66qWg2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+bj0XhbWMIGRKMSoUxIu2RiVK3SV2.jpg : {'status': False, 'reasons': 'Head alignment is not proper.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect']}
+BnEvvrXstihvMzvjPGkX3SA8KH73.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+brR1JgLqUbWCaOKJaCqFa87oJxQ2.jpg : {'status': False, 'reasons': 'Head alignment is not proper.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect']}
+cfFXKbYAidX5SMnlgJKmWELskps2.jpg : {'status': False, 'reasons': 'Head alignment is not proper.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect']}
+CFO6pOi7IYbdagSRF5BX1LLGahw1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+CMHJsjFElybXTkfUvvlfMxaVMMw2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+CS5jtvaCoZTo96aVXN9eI5OjsM73.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+CX8yrlP3F1NvLlJRZRyTCybH7XB3.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+domKQOZ89BWXZAqOIohrRFh3sa33.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+dXs1VyIkSMVbdr2zkHcbgQEWrf92.jpg : {'status': False, 'reasons': 'Head alignment is not proper.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect']}
+E9rWRqRaEYf0sP2O7GDTWpfXkJ22.jpg : {'status': False, 'reasons': 'Head alignment is not proper.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect']}
+EzNkbjvp57UxfrPrbBdchy0q6LV2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+EZyR1dnIIVNNVgnRoCzMVjyR2yR2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+f9jzfFS8VOXROvIoNfarC7gHEwE3.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+fc9AODUAWnOrsHN2AqW6plHx60J2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+fOhBZ4y70yMDY1Yw7Uq3hRkNc9O2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+gvLuQgWOgNWfGmseizsKsVa9Het1.jpg : {'status': False, 'reasons': 'Head alignment is not proper.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect']}
+gWXlUOVn4LfETya4uXSpLpsAkKi2.jpg : {'status': False, 'reasons': 'The image is incomplete or has partial face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete']}
+h8u3y3kxzhYTxOnk0GcgrYFllkk1.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+hIXXMKk29DYbAcy9hcLcSQTRJvd2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+HPXUc0EUmJPHkgKAn3ml6CognPe2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+HvqJckp0SZb0j251Oi2ROaVDbd22.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+INsrDVwkx1UOQppT6ghc7cC7mH02.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+J67QyZrXordnmt7r0h0WwjjO4rt1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+jvqT7ttxwkSU1QUlqlnIjjloqS72.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+jyxFli147OSnMdEZkH890cPv3al1.jpg : {'status': False, 'reasons': 'Head alignment is not proper.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect']}
+k8zOITUdzHOD29ccmnJOEf7OeTn1.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+kslg7mzcrgV6eCFOuGLKYaX8BSn2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+KxQX1evvsNcSKRNTZs0udEGPvXW2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+luvRZnOnB2VfBx5VlRhBlBTegdo1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+LxFbj6qyDwSXpmgub9ZWx2B66V32.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+LyQvU2j6Y0dCzR3DikXDUmAqqow1.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+mGXqkPkxkKW8xBgL7y90uxtHIID2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+n1WLIX2sdpQuNr2ylPioNVd6DRq1.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+nEzjYxNTWbN2j0qH4JrXUPy9ZxC3.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+nsKEAIHDYYRnX3oMuMIXvQXF9Fg2.jpg : {'status': False, 'reasons': 'The image is incomplete or has partial face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete']}
+NUBLh0hdAiNqP3lOjBSGhvdMl763.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+NWTqFoMj9ER0wGTxEwS0QvaJj1C2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+NwxWRzDtCyT2CaPfvFCnqw3TUlk1.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+ODKbnAcRgJMMHPLEugKwlodQXDL2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+OIOhG4WLNDa90n3oTqp7bzOYTxJ3.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+oNyF5UqDZNfpPGn9MM4uu94H4Xf2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+OTRcAZQ13gbX2UD61MwYmIBPdUn1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+PbCYI7bhdeOoc7hhtHBV1EJMGuy1.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+PlCO3dsU2hckEwoqK0JlTTUxdn92.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+pX7us2b1p6aH0mMdZgcdCMbqu9s1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+q19EgfLl5EUprUFAszdbbftEc4g2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+qk1rzDb87BcqF0BvvKaka4AZ6Gr1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+Ri2RSdkZqqdGkUQZd7Aq8RGP8RH2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+sF97UaNDtDPiJyovwSGklHByZL03.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+sJknNyFqoUOWryh7Ii78qmUfWJI2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+sororABVj5bcvJUcPHNZhUcgKVx1.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+sZbfy6KZJzdz7AI0bDQfpMBS4qs2.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+T3HXvMYokMRJDh370LNZHquXR733.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+TAKdkfs2x7e1AQScs219WgYEr0H3.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+TbOzm9QC5Zd7P9ySODnMHOcab392.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+TclGSi9AmFfQZufhbUVwGOdvucy2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+tHvjwcWUwQPcmrHkBUtEl1IBVMM2.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+TZFFVXXBw4Phr4ybkVxYH3oggOc2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+u1d6y74mGXMlAVPfL3sB36lpzu43.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+U8C3YNcRpQU1ZZSmSWkCx6O7gnn1.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+UButzcf2ZBTnqOTd1dbJVvEtMya2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+unPUnoUaHwOnw262tqXvJ2Os9Cc2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+UrVbC81HfmNYDmAqMS3yB38iRDF2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+UzPmA0KlRxTMK36iU2NweFQ3W373.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+VcBcu16MG8Ns9EFWOREv8Fm8ZFG3.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+VJPkWtaoAWOXFl2awIqDdJrcZpN2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+w9MU2X4ta7cnvKtqO9TieaInFOG3.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+wZy3QH07ixQVW9f3s6yPfTfNigi2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+x1BFaPcBOfZkWZzXvlL43YhrAb93.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+XGd1YUUmifXUbEuSJoociTQWAzs1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+xz8Rudw5C5TiTwDtucGBwsNTLfJ2.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+yfkP1NfLytXdcApoKz96ZecPBLv1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+ypgJQIlvD3c5Otma35DLmToiItg1.jpg : {'status': True, 'reasons': '', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+yXfRXnCLL2TNj4GTsKlYwYMhpgd2.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+Z96Du3fRTUaylAICmJyNF8WZ0Yw1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+zE6khaVHZESIwTOkYyMfi0TvhTJ3.jpg : {'status': False, 'reasons': 'Image does not have a single face', 'parameters_checked': ['is_enough_contrast', 'is_one_face']}
+ZeOQXPQLnMeJrQoM2uCFImjpAej1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+Zi2uVOTv6hcwM2h5TCAGEiQrA9n1.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+zlnJIiQ4bDfOE7mXXkmSYzM65Sy2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
+zpmHF9aL9qgpWzx59q6PzC0mSYK2.jpg : {'status': False, 'reasons': 'Please put a neutral expression on face.', 'parameters_checked': ['is_enough_contrast', 'is_one_face', 'is_incomplete', 'is_head_perfect', 'is_neutral']}
