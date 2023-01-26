@@ -47,4 +47,4 @@ def process_json():
 if __name__ == "__main__":
     # res = main.isOkay(r'dataset\train\Neemeesh\Neemeesh.png', 50, 50,contrast_thresh= 0.5)
     # print(res)
-    app.run(debug = True, host=)
+    app.run(debug = True)
