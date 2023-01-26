@@ -34,9 +34,9 @@ def process_json():
     # image = cv2.imread(os.getcwd()+r"\\dataset\train"+"\\"+name+'\\'+name+"."+img_type)
     img = np.frombuffer(decoded_img, np.uint8)
     image = cv2.imdecode(img, cv2.IMREAD_COLOR)
-    print(image)
-    print(type(image))
-    print(image.shape)
+    # print(image)
+    # print(type(image))
+    # print(image.shape)
     
     result=main.isOkay(image, 50, 50,contrast_thresh= 0.5)
     '''
