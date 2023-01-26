@@ -23,13 +23,13 @@ def process_json():
     decoded_img = base64.b64decode(json['img'])
     img_type=json['img_type']
     name=json['name']
-    if not os.path.exists(os.getcwd()+"\\dataset\\train\\"+name):
-        os.mkdir(os.getcwd()+r"\\dataset\\train\\"+name)
+    # if not os.path.exists(os.getcwd()+"\\dataset\\train\\"+name):
+    #     os.mkdir(os.getcwd()+r"\\dataset\\train\\"+name)
         
-    f = open(os.getcwd()+r"\\dataset\train"+"\\"+name+'\\'+name+"."+img_type, "wb")
+    # f = open(os.getcwd()+r"\\dataset\train"+"\\"+name+'\\'+name+"."+img_type, "wb")
     
-    f.write(decoded_img)
-    f.close()
+    # f.write(decoded_img)
+    # f.close()
     image = cv2.imread(os.getcwd()+r"\\dataset\train"+"\\"+name+'\\'+name+"."+img_type)
     
     result=main.isOkay(image, 50, 50,contrast_thresh= 0.5)
@@ -38,13 +38,15 @@ def process_json():
     
     result = {'status': bool, 'reasons': suitable message,s None if status is True, parameters_checked = dictionary of all parameters and their respective statuses}
     '''
-    if not result['status']:
-        os.remove(os.getcwd()+r"\\dataset\train"+"\\"+name+'\\'+name+"."+img_type)
+    # if not result['status']:
+    #     os.remove(os.getcwd()+r"\\dataset\train"+"\\"+name+'\\'+name+"."+img_type)
     # cv2.imshow("image", image)
     # cv2.waitKey(0)
     return jsonify({"result":result})
+
+@app.route('/', methods=['GET'])
+def hello_world():
+    return "Welcome to the Image verification API")
     
 if __name__ == "__main__":
-    # res = main.isOkay(r'dataset\train\Neemeesh\Neemeesh.png', 50, 50,contrast_thresh= 0.5)
-    # print(res)
-    app.run(debug = True)
+    app.run()
