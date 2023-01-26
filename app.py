@@ -1,9 +1,8 @@
 from flask import Flask, request, jsonify
 import base64 
 import main
+import numpy as np
 import cv2
-import os
-
 app = Flask(__name__)
 
 '''
@@ -27,10 +26,17 @@ def process_json():
     #     os.mkdir(os.getcwd()+r"\\dataset\\train\\"+name)
         
     # f = open(os.getcwd()+r"\\dataset\train"+"\\"+name+'\\'+name+"."+img_type, "wb")
+    # print(type(decoded_img))
+    # print(decoded_img)
     
     # f.write(decoded_img)
     # f.close()
-    image = cv2.imread(os.getcwd()+r"\\dataset\train"+"\\"+name+'\\'+name+"."+img_type)
+    # image = cv2.imread(os.getcwd()+r"\\dataset\train"+"\\"+name+'\\'+name+"."+img_type)
+    img = np.frombuffer(decoded_img, np.uint8)
+    image = cv2.imdecode(img, cv2.IMREAD_COLOR)
+    print(image)
+    print(type(image))
+    print(image.shape)
     
     result=main.isOkay(image, 50, 50,contrast_thresh= 0.5)
     '''
@@ -46,7 +52,7 @@ def process_json():
 
 @app.route('/', methods=['GET'])
 def hello_world():
-    return "Welcome to the Image verification API")
+    return "Welcome to the Image verification API"
     
 if __name__ == "__main__":
     app.run()
